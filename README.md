@@ -31,4 +31,4 @@ Flags:
   -t, --table string      请输入表名称
       --type string       请输入数据库实例类型 (default "mysql")
   -n, --username string   请输入数据库的账号
-  ```
+```
