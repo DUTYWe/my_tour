@@ -5,7 +5,8 @@
 
 ## 2struct
 提供一种直接由数据库中表的信息生成model的功能
-* Flags:
+```
+Flags:
       --charset string    请输入数据库的编码 (default "utf8mb4")
   -d, --db string         请输入数据库名称
   -h, --help              help for 2struct
@@ -13,4 +14,5 @@
   -p, --password string   请输入数据库的密码
   -t, --table string      请输入表名称
       --type string       请输入数据库实例类型 (default "mysql")
-  -n, --username string   请输入数据库的账号 *
+  -n, --username string   请输入数据库的账号
+  ```
